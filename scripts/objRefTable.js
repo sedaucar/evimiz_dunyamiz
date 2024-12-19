@@ -40,12 +40,12 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.random,
 		C3.Plugins.Arr.Exps.IndexOf,
 		C3.Plugins.Arr.Acts.Push,
+		C3.Plugins.Arr.Cnds.IsEmpty,
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.Arr.Acts.Pop,
 		C3.Behaviors.Flash.Acts.Flash,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.System.Cnds.TriggerOnce,
-		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.Sprite.Cnds.CompareInstanceVar,
 		C3.Plugins.System.Cnds.OnLayoutEnd
 	];
